@@ -16,5 +16,15 @@
     D) student["Favorite Teacher"].name
     E) student.courseLoad[0]
  13.
+    A) 32, it convert the number 2 to string 2 and concatenate the string 3 and string 2.
+    B) 1, it convert the string 3 to number 3 and minus 2. 
+    C) 3, it convert null to 0, so it become 3 + 0 = 3.
+    D) 3null, it convert null to a string which become "null" and concatenate string 3 and string null.
+    E) 4, it convert "true" to number 1, so it becomes 3 + 1.
+    F) 0, it convert "false" to number 0, and null is nothing so 0 + nothing is equal to 0.
+    G) 3undefined, it convert "underfined" to string and concatenate string 3 and string undefined.
+    H) NaN, since underfined is not a number.
+ 14.
+ 
  
   
