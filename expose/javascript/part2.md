@@ -35,5 +35,5 @@
 16. inside the javascript file
 17. The result will be [ 2, 4, 6 ]. There are 2 parameters when the function call. One is the array and one is the function which is doSomething. When in get into the "modifyArray", the array named "array" and the function named "callback"(doSomething). Inside the function, it create a new array. In follow by a for loop which loop through the array length, inside the for loop, the array try to push a new value that using the "callback" function to get it. The "callback" function contains a parameter array[i], and inside the doSomething funciton, it just multiply the value by 2 and then return a value. After the "callback" returned a value it will push to the array. 
 18. inside the javascript file
- 
+19. 1 4 3 2
   
