@@ -25,6 +25,11 @@
     G) 3undefined, it convert "underfined" to string and concatenate string 3 and string undefined.
     H) NaN, since underfined is not a number.
  14.
- 
+    A) true, it convert string 2 to number 2, and 2 is larger than 1.
+    B) false, when compare string, the string start compare at the beginning. And 1 is not larger than 2, so it return false
+    C) true, it convert string 2 to number 2, and 2 is equal to 2.
+    D) false, it is because === checks the equality without type conversion.
+    E) false, it convert true to number 1, and 1 is not equal to 2.
+    F) true, it convert Boolean(2) to true, and now they have the same type, which return true.
  
   
