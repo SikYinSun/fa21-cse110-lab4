@@ -31,5 +31,7 @@
     D) false, it is because === checks the equality without type conversion.
     E) false, it convert true to number 1, and 1 is not equal to 2.
     F) true, it convert Boolean(2) to true, and now they have the same type, which return true.
+15. == is just for regular equality check, it compare value. === is strict equality, it will check the equality without type conversion.
+16. 
  
   
