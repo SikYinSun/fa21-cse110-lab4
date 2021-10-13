@@ -10,5 +10,5 @@
 10. It will print out 3 because the array length is 3 and the variable "length" is in the same scope with line 12 which will not have any problem to access it although the type is "const".
 11. The function will return an array with [50, 100, 150 ]. It is because the function initialize an empty array, and inside the for loop, "discountedPrice" of each price push to the "discounted" array, and the loop runs for 3 time, so at the end the array contains 3 elements. And the keyword "return" will return the value when it get called.
 12)
-  a)
+    a)
   
