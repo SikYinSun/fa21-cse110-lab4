@@ -15,4 +15,6 @@
     C) student.greeting()
     D) student["Favorite Teacher"].name
     E) student.courseLoad[0]
+ 13.
+ 
   
